@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Harvester Shadow -->
+    <path
+        android:fillColor="#20000000"
+        android:pathData="M18,80 L92,80 A6,6 0 0,1 92,86 L18,86 A6,6 0 0,1 18,80 Z" />
+
+    <!-- Unloading Pipe (Auger) -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M38,42 L22,26 L25,23 L41,39 Z" />
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M22,23 L25,23 L25,27 L22,27 Z" />
+
+    <!-- Exhaust Pipe -->
+    <path
+        android:fillColor="#424242"
+        android:pathData="M52,28 L55,28 L55,38 L52,38 Z" />
+
+    <!-- Harvester Main Body / Grain Tank (Golden Yellow) -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M30,50 L78,50 L78,68 L30,68 Z" />
+
+    <!-- Body Top Curve / Grain Tank Hatch -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M32,38 C32,38 42,36 58,36 L58,50 L32,50 Z" />
+
+    <!-- Driver's Cabin Body -->
+    <path
+        android:fillColor="#263238"
+        android:pathData="M58,34 L78,34 L80,50 L58,50 Z" />
+
+    <!-- Driver's Cabin Glass (Light Cyan / Ice Blue) -->
+    <path
+        android:fillColor="#80D8FF"
+        android:pathData="M60,36 L75,36 L77,48 L60,48 Z" />
+
+    <!-- Glass Specular Reflection Accent -->
+    <path
+        android:fillColor="#E0F7FA"
+        android:pathData="M62,38 L68,38 L64,46 L60,46 Z" />
+
+    <!-- Cabin Roof (Harvest Gold) -->
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M56,31 L80,31 L78,35 L58,35 Z" />
+
+    <!-- Body Side Stripe Accent (Green/Dark) -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M30,58 L78,58 L78,63 L30,63 Z" />
+
+    <!-- Front Header / Cutter Reel Arm -->
+    <path
+        android:fillColor="#757575"
+        android:pathData="M76,58 L92,62 L92,68 L76,66 Z" />
+
+    <!-- Cutter Reel Wheel (Front Attachment) -->
+    <path
+        android:fillColor="#B0BEC5"
+        android:pathData="M92,65 m-8,0 a8,8 0 1,0 16,0 a8,8 0 1,0 -16,0" />
+    <path
+        android:fillColor="#37474F"
+        android:pathData="M92,65 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+    <!-- Cutter Blades -->
+    <path
+        android:strokeColor="#FFC107"
+        android:strokeWidth="1.5"
+        android:pathData="M85,65 L99,65 M92,58 L92,72 M87,60 L97,70 M87,70 L97,60" />
+
+    <!-- Big Drive Wheel (Rear/Center - Left in side view) -->
+    <!-- Outer Tire -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M42,68 m-12,0 a12,12 0 1,0 24,0 a12,12 0 1,0 -24,0" />
+    <!-- Tire Treads -->
+    <path
+        android:fillColor="#424242"
+        android:pathData="M42,68 m-10,0 a10,10 0 1,0 20,0 a10,10 0 1,0 -20,0" />
+    <!-- Inner Rim (Yellow) -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M42,68 m-6,0 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0" />
+    <!-- Hub Center -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M42,68 m-2.5,0 a2.5,2.5 0 1,0 5,0 a2.5,2.5 0 1,0 -5,0" />
+
+    <!-- Smaller Wheel (Front/Right) -->
+    <!-- Outer Tire -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M72,71 m-8,0 a8,8 0 1,0 16,0 a8,8 0 1,0 -16,0" />
+    <!-- Inner Rim (Yellow) -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M72,71 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+    <!-- Hub Center -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M72,71 m-1.5,0 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0" />
+
+    <!-- Golden Wheat Ears Accent (Top Left) -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M20,38 C20,34 23,30 25,28 C24,31 24,34 22,36 Z M23,33 C25,30 28,28 30,26 C28,29 27,32 25,33 Z" />
+
+</vector>
